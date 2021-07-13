@@ -13,15 +13,15 @@ git clone https://github.com/darklotuskdb/sc-finder.git && cd sc-finder && chmod
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/29382875/125442021-37b2baa2-fd4f-4edb-988d-4ccc0091e606.png)
 
-## Is It Helpfull Too You?
+## Is It Helpful To You?
 [BuyMeACoffee](https://www.buymeacoffee.com/darklotus)
 
 ## About Me
 
-* **DarkLotus** - *Cyber Security Researcher* - [DarkLotusKDB](https://github.com/darklotuskdb)
+* **DarkLotus** - *Cyber Security Researcher* - [DarkLotusKDB](https://darklotuskdb.github.io/KDBhati/)
 
 ### Social Media Handles
 * [Twitter](https://twitter.com/darklotuskdb)
-* [Medium](https://medium.com/@darklotus)
+* [Medium](https://darklotus.medium.com/)
 * [Linkedin](https://www.linkedin.com/in/kamaldeepbhati/)
 * [Instagram](https://www.instagram.com/kamaldeepbhati/)
